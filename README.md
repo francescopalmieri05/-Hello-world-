@@ -1,4 +1,2 @@
 # -Hello-world-
-MyFirstRepository
-
-I love: pizza: :coffe:, and :bananas:
+First commit of demo notebook
